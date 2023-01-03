@@ -1,0 +1,20 @@
+[
+    {
+        "MapName": "default",
+        "Path":
+        [
+            "hroleplay/hgui/layouts/Old/S1.edds",
+            "hroleplay/hgui/layouts/Old/S2.edds",
+            "hroleplay/hgui/layouts/Old/S3.edds",
+            "hroleplay/hgui/layouts/Old/S4.edds",
+            "hroleplay/hgui/layouts/Old/S5.edds",
+            "hroleplay/hgui/layouts/Old/S6.edds",
+            "hroleplay/hgui/layouts/Old/S7.edds",
+            "hroleplay/hgui/layouts/Old/S8.edds",
+            "hroleplay/hgui/layouts/Old/S9.edds",
+            "hroleplay/hgui/layouts/Old/S10.edds"
+
+
+        ]
+    }
+]

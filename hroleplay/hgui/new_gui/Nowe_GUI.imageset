@@ -1,0 +1,164 @@
+ImageSetClass {
+ Name "Nowe_GUI"
+ RefSize 2048 2048
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{AE1876051AB109C6}hroleplay/hgui/new_gui/gui.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass iconTemperature0 {
+   Name "iconTemperature0"
+   Pos 489 489
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHungry0 {
+   Name "iconHungry0"
+   Pos 801 489
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconThirsty0 {
+   Name "iconThirsty0"
+   Pos 1113 489
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconBlood0 {
+   Name "iconBlood0"
+   Pos 1425 489
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHealth0 {
+   Name "iconHealth0"
+   Pos 1737 489
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconTemperature1 {
+   Name "iconTemperature1"
+   Pos 489 801
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHungry1 {
+   Name "iconHungry1"
+   Pos 801 801
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconThirsty1 {
+   Name "iconThirsty1"
+   Pos 1113 801
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconBlood1 {
+   Name "iconBlood1"
+   Pos 1425 801
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHealth1 {
+   Name "iconHealth1"
+   Pos 1737 801
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconTemperature2 {
+   Name "iconTemperature2"
+   Pos 489 1113
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHungry2 {
+   Name "iconHungry2"
+   Pos 801 1113
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconThirsty2 {
+   Name "iconThirsty2"
+   Pos 1113 1113
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconBlood2 {
+   Name "iconBlood2"
+   Pos 1425 1113
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHealth2 {
+   Name "iconHealth2"
+   Pos 1737 1113
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconTemperature3 {
+   Name "iconTemperature3"
+   Pos 489 1425
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHungry3 {
+   Name "iconHungry3"
+   Pos 801 1425
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconThirsty3 {
+   Name "iconThirsty3"
+   Pos 1113 1425
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconBlood3 {
+   Name "iconBlood3"
+   Pos 1425 1425
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHealth3 {
+   Name "iconHealth3"
+   Pos 1737 1425
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconTemperature4 {
+   Name "iconTemperature4"
+   Pos 488 1737
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHungry4 {
+   Name "iconHungry4"
+   Pos 801 1737
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconThirsty4 {
+   Name "iconThirsty4"
+   Pos 1113 1737
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconBlood4 {
+   Name "iconBlood4"
+   Pos 1425 1737
+   Size 302 302
+   Flags 0
+  }
+  ImageSetDefClass iconHealth4 {
+   Name "iconHealth4"
+   Pos 1737 1737
+   Size 302 302
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}
